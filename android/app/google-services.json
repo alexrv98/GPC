@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051879808183",
+    "project_id": "gpc-proyect",
+    "storage_bucket": "gpc-proyect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051879808183:android:7f0f28fd68ce6bb189c132",
+        "android_client_info": {
+          "package_name": "com.example.appmovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgrrIkuArdnV2SbOqst1xImUgfywilbbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
